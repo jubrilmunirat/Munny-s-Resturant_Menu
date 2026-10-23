@@ -1,0 +1,9 @@
+What I fixed
+I changed the width and the height of the images
+I changed the image name  
+I changed the price from “$” to “N”
+
+Reasons why I made changes
+
+I changed the Image name because it did not correspond with the name I used to save images when I downloaded it online so, to avoid confusion and error I had to fix it. Also i made use of height and width so that the image of the menu will fit perfectly in the table column.
+
